@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/wrr/issues"
   },
-  "homepage": "https://github.com/AgtLucas/wrr"
+  "homepage": "https://github.com/AgtLucas/wrr",
+  "dependencies": {
+    "react": "^0.13.1",
+    "react-hot-loader": "^1.2.4",
+    "react-router": "^0.13.2"
+  }
 }
